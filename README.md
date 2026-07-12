@@ -8,7 +8,7 @@
   <br/><br/>
 
   <!-- Gitea's heatmap -->
-  <em><small>My private server:</small></em><br/>
+  <em><sub>Private server:</sub></em><br/>
   <img src="./Assets/heatmap.svg" width="65%">
 
   <!-- New section below -->
